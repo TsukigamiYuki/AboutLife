@@ -86,7 +86,12 @@ footer {
   }
 }
 
-img {
+#image1 {
   border-radius: 100%;
   width: 150px;
+}
+
+#image2 {
+  max-width: 500px;
+  max-height: 250px;
 }
